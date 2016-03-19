@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {198828890,145266153},--Sudo users
+    sudo_users = { 112707993,195129537,185963103,198488095, }  ,--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
@@ -262,7 +262,7 @@ Unock a group's setting
 
 !wholist
 Get a list of members in group/realm
-
+د
 !who
 Get a file of members in group/realm
 
@@ -285,7 +285,7 @@ Demote an admin by id OR username *Sudo only
 Get a list of all groups
 
 !list realms
-Get a list of all realms
+Get a list of all realms 
 
 !log
 Grt a logfile of current group or realm
